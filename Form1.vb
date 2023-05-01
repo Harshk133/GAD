@@ -32,4 +32,12 @@
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
         Me.WindowState = FormWindowState.Minimized
     End Sub
+
+    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
+        load_editor()
+    End Sub
+
+    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
+        TabControl1.TabPages.Remove(TabControl1.SelectedTab)
+    End Sub
 End Class
