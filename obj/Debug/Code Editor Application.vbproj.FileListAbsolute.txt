@@ -1,0 +1,16 @@
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\bin\Debug\Code Editor Application.exe.config
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\bin\Debug\Code Editor Application.exe
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\bin\Debug\Code Editor Application.pdb
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\bin\Debug\Code Editor Application.xml
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.vbproj.AssemblyReference.cache
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.vbproj.SuggestedBindingRedirects.cache
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code_Editor_Application.Form1.resources
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code_Editor_Application.Resources.resources
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.vbproj.GenerateResource.cache
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.vbproj.CoreCompileInputs.cache
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.exe
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.xml
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.pdb
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\bin\Debug\FastColoredTextBox.dll
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code_Editor_Application.Editor.resources
+D:\MyPrograms\aajchaabhyass.com\VB.net\Code Editor Application\obj\Debug\Code Editor Application.vbproj.CopyComplete
